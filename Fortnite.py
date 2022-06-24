@@ -33,7 +33,7 @@ async def on_connect():
 
 @bot.event
 async def on_ready():
-  print("The Bot Is Online")
+ 
 
 
 
@@ -163,3 +163,4 @@ async def vbucks(ctx, amount):
     return
 
 
+printf("The Bot Is Online")
