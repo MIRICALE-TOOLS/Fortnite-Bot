@@ -10,5 +10,5 @@ then click the reset token button and copy your token
 then double click on the TOKEN File and open it with notepad or something
 then replace the PUT YOUR TOKEN HERE Text with your token
 then press CTRL + S to save the file and then close it
-then simply open Fortnite.py
+then simply open Fortnite.py(DON T CLOSE IT OR THE BOT WILL GO OFFLINE)
 then enjoy!
