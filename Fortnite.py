@@ -34,7 +34,6 @@ async def on_connect():
     access_log=False,
 	)
   server = await coro
-  print("ok")
 
 @bot.event
 async def on_ready():
