@@ -37,7 +37,7 @@ async def on_connect():
 
 @bot.event
 async def on_ready():
-  print("Fortnite Is Online")
+  print("The Bot Is Online")
 
 
 
