@@ -10,5 +10,5 @@ then click the reset token button and copy your token
 then double click on the TOKEN File and open it with notepad or something
 then replace the PUT YOUR TOKEN HERE Text with your token
 then press CTRL + S to save the file and then close it
-then simply double click on the Fortnite.py file in the Fortnite-Bot-main folder
+then simply open Fortnite.py
 then wait for the required packages to install and enjoy
