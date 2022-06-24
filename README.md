@@ -11,4 +11,4 @@ then double click on the TOKEN File and open it with notepad or something
 then replace the PUT YOUR TOKEN HERE Text with your token
 then press CTRL + S to save the file and then close it
 then simply open Fortnite.py
-then wait for the required packages to install and enjoy
+then enjoy!
