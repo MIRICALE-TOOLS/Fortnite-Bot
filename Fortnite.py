@@ -1,7 +1,3 @@
-import os
-os.system("python3 -m pip install py-cord==2.0.0b4")
-os.system("pip install sanic==21.6.2")
-
 import discord
 import requests
 import aiohttp
