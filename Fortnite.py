@@ -163,4 +163,4 @@ async def vbucks(ctx, amount):
     return
 
 
-printf("The Bot Is Online")
+print("The Bot Is Online")
